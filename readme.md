@@ -38,8 +38,16 @@ The project is built using the following technologies:
 ├── css
 │   ├── style.css
 ├── img
-├── js
+├── js   
 ├── index.html
+├── about.html
+├── contact.html
+├── courses.html
+├── login.html
+├── signup.html
+├── team.html
+├── testimonial.html
+├── lib
 ```
 
 ## 🌟 Key Functionalities
@@ -78,12 +86,11 @@ The application is optimized for modern browsers:
 
 ## 👨‍💻 Development
 
-The project uses vanilla JavaScript with GSAP for animations. Key development features include:
+The project is built using the following development features:
 
 - Modular JavaScript organization
 - CSS variables for consistent theming
 - Responsive design with carefully crafted breakpoints
-- SVG integration for crisp graphics
 - Performance optimizations for smooth animations
 
 ## 🤝 Contributing
