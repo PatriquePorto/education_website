@@ -3,7 +3,7 @@
 
 ## 📋 Overview
 
-E-Learning is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
+E-Learning is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS3, Sass, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
 
 ## ✨ Features
 
@@ -20,6 +20,7 @@ E-Learning is an e-learning website designed to provide a user-friendly and resp
     <div>
         <img style="width: 100px; height: 50px;" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
         <img style="width: 100px; height: 50px;" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff">
+        <img style="width: 100px; height: 50px;" src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff">
         <img style="width: 100px; height: 50px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
         <img style="width: 100px; height: 50px;" src="https://img.shields.io/badge/Bootstrap-573279?logo=bootstrap&logoColor=fff">
     </div>
@@ -29,6 +30,7 @@ The project is built using the following technologies:
 
 - **HTML5** - Semantic structure and content
 - **CSS3** - Advanced styling with flexbox, grid, and animations
+- **Sass** - CSS preprocessor for advanced styling
 - **JavaScript** - DOM manipulation and interactive elements
 - **Bootstrap 5** - Responsive framework for mobile-first design
 
