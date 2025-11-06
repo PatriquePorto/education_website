@@ -1,15 +1,11 @@
-# E-Learning Website using HTML5, CSS3, Bootstrap5 and JavaScript 
-
-![E-Learning Website](preview.jpg)
-
-The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
+# E-Learning Education Website 
 
 
-## Introduction
+## 📋 Overview
 
-Secret Coder is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
+E-Learning is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
 
-## Features
+## ✨ Features
 
 - Responsive design using Bootstrap 5.
 - Structured course catalog with detailed descriptions.
@@ -19,42 +15,85 @@ Secret Coder is an e-learning website designed to provide a user-friendly and re
 - Instructor application form.
 - User can also contact us.
 
-## Getting Started
+## 🛠️ Technologies
+<div align="center">
+    <div>
+        <img style="width: 100px; height: 50px;" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+        <img style="width: 100px; height: 50px;" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff">
+        <img style="width: 100px; height: 50px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+        <img style="width: 100px; height: 50px;" src="https://img.shields.io/badge/Bootstrap-573279?logo=bootstrap&logoColor=fff">
+    </div>
+</div>
 
-### Prerequisites
+The project is built using the following technologies:
 
-Before you begin, ensure you have the following prerequisites:
+- **HTML5** - Semantic structure and content
+- **CSS3** - Advanced styling with flexbox, grid, and animations
+- **JavaScript** - DOM manipulation and interactive elements
+- **Bootstrap 5** - Responsive framework for mobile-first design
 
-- Web browser (e.g., Chrome, Firefox, Safari)
-- Text editor (e.g., Visual Studio Code, Sublime Text)
+## 🏗️ Project Structure
 
-### Installation
+```
+├── css
+│   ├── style.css
+├── img
+├── js
+├── index.html
+```
+
+## 🌟 Key Functionalities
+
+- Responsive design using Bootstrap 5.
+- Structured course catalog with detailed descriptions.
+- Interactive lessons.
+- User can register and login.
+- User authentication for personalized learning experiences.
+- Instructor application form.
+- User can also contact us.
+
+## 🚀 Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
+```bash
 
-2. Open the project in your preferred text editor.
-3. Launch the `index.html` file in a web browser.
+git clone https://github.com/PatriquePorto/education_website
+```
 
-## Technologies Used
+2. Open the project in your code editor
 
-- HTML
-- CSS
-- Bootstrap 5
-- JavaScript
+3. Launch the index.html file in a modern web browser
 
-📱 Moreover, I've ensured that the website is fully responsive on all screens, making it accessible and user-friendly across various devices. 📱💡
+## 📱 Browser Compatibility
 
-## Contributing 
+The application is optimized for modern browsers:
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
+## 🖼️ Screenshots
 
-## Show your support 
+ ![preview](preview.png)
 
-Give a ⭐️ if you like this project!
+## 👨‍💻 Development
 
+The project uses vanilla JavaScript with GSAP for animations. Key development features include:
 
-## License
+- Modular JavaScript organization
+- CSS variables for consistent theming
+- Responsive design with carefully crafted breakpoints
+- SVG integration for crisp graphics
+- Performance optimizations for smooth animations
 
-This project is **free to use** and does not contains any license.
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/nuuvem_clone/issues).
+
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
+
+---
+
+Developed with ❤️ by [Patrique P Porto](https://github.com/patriqueporto)
